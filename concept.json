@@ -1,0 +1,11 @@
+{
+  "slug": "atomic-meme",
+  "name": "Atomic Meme",
+  "kind": "art",
+  "description": "Turn an image caption and coin story into one atomic, shareable launch payload.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
