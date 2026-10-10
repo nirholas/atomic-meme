@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "atomic-meme"
+abstract: "Turn an image caption and coin story into one atomic, shareable launch payload."
+repository-code: "https://github.com/nirholas/atomic-meme"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
